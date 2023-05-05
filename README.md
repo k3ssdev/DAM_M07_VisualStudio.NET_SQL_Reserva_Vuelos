@@ -40,4 +40,4 @@ El archivo de configuración de la base de datos se encuentra en el archivo "App
 
 
 ## Licencia
-[MIT LICENSE](LICENSE.MD)
+[MIT LICENSE](LICENSE)
