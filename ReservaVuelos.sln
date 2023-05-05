@@ -12,6 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 		App Reservas de Vuelos.chm = App Reservas de Vuelos.chm
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{F3C338E8-D358-4B33-B0D1-DE4A9F966E1F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\2023-05-05 23_12_46-Informe.png = ..\..\..\Desktop\2023-05-05 23_12_46-Informe.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

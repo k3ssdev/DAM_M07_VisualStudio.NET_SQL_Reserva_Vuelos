@@ -154,6 +154,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="README.md" />
     <None Include="ReservaVuelos_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
