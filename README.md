@@ -36,7 +36,7 @@ El archivo de configuración de la base de datos se encuentra en el archivo "App
 
 ## Capturas de pantalla
 
-![Captura 1](screenshot_1.png)
+![Captura 1](Screenshot_1.png)
 
 
 ## Licencia
