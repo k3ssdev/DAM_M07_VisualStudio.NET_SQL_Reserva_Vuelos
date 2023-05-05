@@ -189,5 +189,24 @@ namespace ReservaVuelos
 
 
         }
+
+        private void verLaAyudaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "App Reservas de Vuelos.chm");
+        }
+
+        private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // Acerca de en un message box
+            MessageBox.Show("Aplicación de gestión de reservas de vuelos\n" +
+                "Desarrollada por:\n" +
+                "Alberto Pérez del Río\n");
+
+        }
+
+        private void Reservas_HelpRequested(object sender, HelpEventArgs hlpevent)
+        {
+            Help.ShowHelp(this, "App Reservas de Vuelos.chm");
+        }
     }
 }
